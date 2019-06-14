@@ -110,20 +110,14 @@ Lastly, we calculates the F score, the weighted harmonic mean of precision and r
 * https://stats.stackexchange.com/questions/323154/precision-vs-recall-acceptable-limits
 
 ### EVALUATION RESULTS
-
 * Without pre-trained Embedding:
 ![multi-label_without_pre-trained_embedding_with the max of the evaluation matrics (per model) _table (2)](https://user-images.githubusercontent.com/27901245/59511045-eb59ba00-8ebd-11e9-881f-8c0d94d46e08.png)
-
 *With FastText Embedding
 ![fastText_trained_embedding_with the max of the evaluation matrics (per model) _table (2)](https://user-images.githubusercontent.com/27901245/59510860-7c7c6100-8ebd-11e9-962f-edc4be895db4.png)
-
 *With Glove Embedding
 ![Glove_trained_embedding_with the max of the evaluation matrics (per model) _table](https://user-images.githubusercontent.com/27901245/59510944-b5b4d100-8ebd-11e9-898d-f5501bcfcdaa.png)
-
 *With Word2Vec Embedding
 ![Word2Vec_pre-trained_embedding_with the max of the evaluation matrics (per model) _table (2)](https://user-images.githubusercontent.com/27901245/59510803-4d65ef80-8ebd-11e9-8a6b-f0ff7c5978f6.png)
-
-
 
 ### COMPARISON OF RESULT WITH [1]
 
