@@ -31,7 +31,7 @@ Toxic Comment Classification dataset. a multi-label text classfication data cons
  * https://www.datacamp.com/community/tutorials/diving-deep-imbalanced-data 
 
 ### DATA PREPARATION
- We clean the Train and Test data, specifically remove punctuations
+ We clean the Train and Test data, and removed punctuations
  
  
 ### DATA PREPROCESSING
