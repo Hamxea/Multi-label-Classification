@@ -18,7 +18,7 @@ Toxic Comment Classification dataset. a multi-label text classfication data cons
 * Unclassified observation 124473
 
 ### HANDLING IMBALANCED DATA
- Due to high availability of unclassified observation in the datataset. Therefore, we used the 35098 classified in atleast one sample to train and validate our model. The new data (train) characteritics
+ Due to high availability of unclassified observation in the datataset. Therefore, we used the 16225 samples that're classified in atleast one sample totalling around 35098 to train and validate our model. The new data (train) characteritics
  * Number of data points (records or samples) 16225
  * Number data points of type toxic 15294
  * Number data points of type severe_tocic 1595
