@@ -9,7 +9,7 @@ Toxic Comment Classification dataset. a multi-label text classfication data cons
 ### DATA CHARACTERISTICS (TRAIN DATASET)
 * Number of data points 159571
 * Number data points of type toxic 15294
-* Number data points of type severe_tocic 1595
+* Number data points of type severe_toxic 1595
 * Number data points of type obscene 8449
 * Number data points of type threat 478
 * Number data points of type insult 7877
@@ -18,7 +18,7 @@ Toxic Comment Classification dataset. a multi-label text classfication data cons
 * Unclassified observation 124473
 
 ### HANDLING IMBALANCED DATA
- Due to high availability of unclassified observation in the datataset. Therefore, we used the 16225 samples that're classified in atleast one sample totalling around 35098 to train and validate our model. The new data (train) characteritics
+ Due to high availability of unclassified observation in the datataset. Therefore, we used the 16225 samples that are classified in atleast one sample which were around 35098 to train and validate our model. The new data (train) characteritics
  * Number of data points (records or samples) 16225
  * Number data points of type toxic 15294
  * Number data points of type severe_tocic 1595
